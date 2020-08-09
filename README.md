@@ -1,6 +1,3 @@
-# Chopper
-Chopper
-
 <link rel="prerender" href="https://github.com/serviceanimals/Chopper">
 
 # [serviceanimals/Chopper](https://github.com/serviceanimals/Chopper/)
