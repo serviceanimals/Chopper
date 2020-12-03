@@ -2,6 +2,8 @@
 
 # [serviceanimals/Chopper](https://github.com/serviceanimals/Chopper/)
 
+[![Screenshot_20201202-111349.png](https://github.com/serviceanimals/Chopper/raw/master/Screenshot_20201202-111349.png)](https://github.com/serviceanimals/Chopper/raw/master/Screenshot_20201202-111349.png)
+
 [![Screenshot_20200807-204420.png](https://github.com/serviceanimals/Chopper/raw/master/Screenshot_20200807-204420.png)](https://github.com/serviceanimals/Chopper/raw/master/Screenshot_20200807-204420.png)
 
 Chopper's Summer Fun 
