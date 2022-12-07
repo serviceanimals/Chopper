@@ -16,8 +16,8 @@ Chopper and Smiley's Winter Fun, December 2020
 
 Chopper's Summer Fun, August 2020 
 
-<!-- [Issues at this repository](https://github.com/serviceanimals/Chopper/issues)
+[Issues at this repository](https://github.com/serviceanimals/Chopper/issues)
 
 [Pulls at this repository](https://github.com/serviceanimals/Chopper/pulls)
 
-Chopper README.md EOF -->
+<!-- Chopper README.md EF -->
